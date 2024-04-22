@@ -1,0 +1,75 @@
+*** School Mangement System **   ( build this diagram in figma using wireframe)
+
+Assignment - Creating a student registration system which is capable of registering students with provided details.
+           - Students registered data should be stored on the page
+           - Students should be able to delete any detail they have provided 
+
+Pages : Home page  | Student Details  | Student Registration 
+
+** Home Page ** 
+
+* Header Section *
+
+- Header design 
+- School Logo 
+- Navigation Bar 
+  - Home 
+  - Register Students > sign in required
+  - Student Details > sign in required 
+  - About
+  - Log in 
+  - Log Out 
+  - My Account > Admin
+
+* Hero/Main Section * 
+- School description 
+- About school 
+- Activities 
+
+* Footer * 
+- School contact details
+- Events (if any)
+
+<----------------------Home page Ends ----------> 
+
+** Student Details ** 
+
+* Header Section *  // only navigation bar changes 
+- Navigation Bar 
+  - Home 
+  - Register students 
+  - My Account 
+
+* Hero/Main Section * 
+- Student details in tabular form 
+- Features operational detail : 
+   - delete button > using password / drag and drop 
+   - editing the details > inside table/inside form
+   - additional...
+
+* Footer * 
+//similar to other pages 
+
+<----------------Page Ends -----------> 
+
+** Student Registration ** 
+
+* Header * 
+-Navigation Bar
+  - Home 
+  - Student Details 
+  - My Account 
+
+* Hero/Main Section * 
+- Form for registeration with following details :
+   - Student ID 
+   - Student Name 
+   - Student Email 
+   - Student Contact 
+   - Any text....
+- Submission msg would be displayed after submission 
+
+* Footer * 
+// same as home page 
+
+
